@@ -123,13 +123,13 @@
 
 - [ ] custody, payment, and recording
 - [ ] authorization, custody, and execution
-- [ ] authorization, custody, and recording
+- [x] authorization, custody, and recording
 - [ ] custody, execution, and payment
 
 #### Q19. What does the degree of operating leverage represent?
 
 - [ ] how much the value of capital assets will change in response to a change in sales
-- [ ] how much the operating income of a company will change in response to a change in sales
+- [x] how much the operating income of a company will change in response to a change in sales
 - [ ] the valuation of assets to determine how much additional debt the company can borrow
 - [ ] how much the sales of a company will change in response to a change in operating income
 
@@ -144,7 +144,7 @@
 
 - [ ] assignment of responsibility
 - [ ] audit verification
-- [ ] segregation of duties
+- [x] segregation of duties
 - [ ] review and reconciliation
 
 #### Q22. What trait distinguishes auditors from accountants?
@@ -157,7 +157,7 @@
 #### Q23. What is the purpose of an operational audit?
 
 - [ ] assessing the company's compliance with environmental laws and regulations
-- [ ] evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors
+- [x] evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors
 - [ ] assessing the organization's control mechanisms for overall efficiency and reliability
 - [ ] evaluating compliance with applicable laws, regulations, policies, and procedures
 
@@ -171,7 +171,7 @@
 #### Q25. Which choice is not a component of internal control?
 
 - [ ] information and communication
-- [ ] risk mitigation
+- [x] risk mitigation
 - [ ] monitoring
 - [ ] control environment
 

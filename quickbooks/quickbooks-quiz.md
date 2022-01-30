@@ -330,3 +330,10 @@
 - [ ] from the billable time entered on timesheets
 - [ ] from you manually entering the line items on the invoice
 - [x] from the billable time entered on timesheets and/or billable costs entered through checks and bills
+
+#### Q48. After creating your Chart of Accounts, you decide some accounts should be subaccounts. How can you make this change?
+
+- [x] In the Edit Account dialog box, select the Subaccount of check box, and then select the parent account in the drop-down list.
+- [ ] You cannot make an account a subaccount once it is part of the Chart of Accounts.
+- [ ] Click the account to select it, and then click Lists > Chart of Accounts > Make subaccount.
+- [ ] Right-click the account and choose Make subaccount.
